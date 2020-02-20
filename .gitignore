@@ -1,3 +1,11 @@
 /sync/
 /build/
 /user.yaml
+/*.userdb/
+!/cangjie5.userdb/
+/installation.yaml
+/.place_holder
+
+*~
+.*.swp
+\#*\#

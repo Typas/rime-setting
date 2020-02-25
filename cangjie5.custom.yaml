@@ -1,5 +1,4 @@
 patch:
-  'punctuator/import_preset': alternative
   'switches/@0/reset': 1 # set default to english
   translator/dictionary: "cangjie5.cj3ext"
   translator/enable_sentence: false

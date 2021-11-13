@@ -3,4 +3,8 @@ patch:
   - "Control+grave"
   schema_list:
   - {schema: cangjie5}
+  - {schema: greek}
+  - {schema: japanese}
+  - {schema: latex}
+  - {schema: bopomofo_tw}
   

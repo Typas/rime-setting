@@ -1,8 +1,7 @@
 patch:
   'switches/@0/reset': 1 # set default to english
-  translator/dictionary: "cangjie5.cj3ext"
-  translator/enable_sentence: false
-  translator/enable_user_dict: false
+  translator/enable_sentence: true
+  translator/enable_user_dict: true
   abc_segmentor/extra_tags: {}
   punctuator:
     import_preset: alternative

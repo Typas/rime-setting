@@ -1,7 +1,12 @@
 patch:
   'switches/@0/reset': 1 # set default to english
-  translator/enable_sentence: true
-  translator/enable_user_dict: true
+  translator:
+    enable_sentence: false
+    enable_encoder: false
+    enable_user_dict: false
+    encode_commit_history: false
+    enable_completion: true
+    dictionary: "cangjie5.cj3ext"
   abc_segmentor/extra_tags: {}
   punctuator:
     import_preset: alternative
